@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AminoAcidSequencer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AminoAcidSequencer_jar</output-path>
+    <root id="archive" name="AminoAcidSequencer.jar">
+      <element id="module-output" name="AminoAcidSequencer" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Coding/Jar's/gson-2.9.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
